@@ -1,3 +1,11 @@
+*.jpg
+*.jpeg
+*.png
+*.bmp
+
+tf_model/*
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
