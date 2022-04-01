@@ -2,4 +2,4 @@
 Apply TF to transfer image style
 
 
-This is a new line added. 
+This is a new line deleted. 
