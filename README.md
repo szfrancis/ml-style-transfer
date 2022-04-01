@@ -1,5 +1,4 @@
 # ml-style-transfer
 Apply TF to transfer image style
 
-
-This is a new line deleted twice. 
+See this will be fetched or not.
